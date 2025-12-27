@@ -43,6 +43,8 @@ Behavioral insights
 Python
 Pandas, NumPy
 Matplotlib
+pynput (keyboard & mouse logging)
+psutil (process monitoring)
 
 -->Privacy & Ethics
 No personal content is recorded
@@ -78,5 +80,5 @@ Rehan Azad
 Computer Science Student
 Interested in data analysis, machine learning fundamentals, and problem-solving
 
-pynput (keyboard & mouse logging)
-psutil (process monitoring)
+
+
